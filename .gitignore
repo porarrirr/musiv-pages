@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+._*
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*~
+
+# Generated site output
+_site/
+.jekyll-cache/
+build/
+dist/
+
+# Temporary files
+.tmp/
+tmp/
+*.tmp
+*.bak
+*.orig
+*.rej
